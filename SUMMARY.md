@@ -4,8 +4,6 @@
 
 ## 基础
 * [BAAS介绍](chapter1/README.md)
-    * [Section1.1](chapter1/section1.1.md)
-    * [Section1.2](chapter1/section1.2.md)
 * [Hyperledger Fabric介绍](chapter2/README.md)
 * [Docker介绍](chapter3/README.md)
 * [Kubernetes介绍](chapter4/README.md)
@@ -39,7 +37,7 @@
 * [合约可管理](chapter10/README.md)
 
 -----
-* [合约高并发性](chapter11/README.md)
+* [链高并发性](chapter11/README.md)
 
 ## 附录
 
